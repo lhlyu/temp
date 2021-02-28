@@ -1,0 +1,18 @@
+{
+  "name": "temp",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vitepress-fc dev docs"
+  },
+  "dependencies": {
+    "@icon-park/vue-next": "^1.3.0",
+    "vue": "^3.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.6",
+    "typescript": "^4.1.3",
+    "vite": "^2.0.4",
+    "vitepress-for-component": "^0.12.2"
+  }
+}

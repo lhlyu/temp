@@ -1,5 +1,3 @@
-const { resolve } = require('path');
-
 module.exports = {
   title: 'temp',
   description: 'vue demo',
